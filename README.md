@@ -9,12 +9,13 @@ A parser from WeeWX to JSON
 
 1. Create a virtualenvironment:
 
-    _-virtualenv venv__
+    __virtualenv venv__
     
 3. Execute the script:
 
-	__python app.py__
+    __python app.py__
 	
-	or
+    or
 	
-	__doJSON.sh__ _(ensure this script has execution permission)_
+    __doJSON.sh__ _(ensure this script has execution permission)_
+    
