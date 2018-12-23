@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 urllib3.disable_warnings()
 HTTP = urllib3.PoolManager()
-    URL = 'http://localhost:8000/'
+URL = 'http://localhost:8000/'
 
 RESPONSE = HTTP.request('GET', URL)
 SOUP = BeautifulSoup(RESPONSE.data, features="html.parser")
@@ -28,6 +28,4 @@ exitformat = {
     }
 }
 
-print()
 print(json.dumps(exitformat))
-
