@@ -7,7 +7,11 @@ A parser from WeeWX to JSON
 
     __apt-get install python3-pip__
 
-1. Create a virtualenvironment:
+2. Install virtualenv if yoyu don't have it currently
+
+    __pip3 install virtualenv__
+
+3. Create a virtualenvironment:
 
     __virtualenv venv__
     
