@@ -1,7 +1,7 @@
 # DomoticZ and WeeWX
 
 In order to feed data coming from WeeWX into DomoticZ you need three things:
-   1) A script generating or gathering data in the correct format (you alrady have this :) This is what this repo is all about
+   1) A script generating or gathering data in the correct format (you alrady have this :) This is what this repo is all about)
    2) A set of calls to the DomoticZ API
    2) A cron job
    
