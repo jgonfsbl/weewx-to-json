@@ -1,5 +1,5 @@
 # WeeWX2JSON
-A parser from WeeWX to JSON
+A parser from WeeWX to JSON to feed data into [DomoticZ](http://www.domoticz.com/). Read more details about __feeding data into [DomoticZ.md](DomoticZ.md)__
 
 
 ## How to run this script or microservice
