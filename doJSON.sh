@@ -9,7 +9,7 @@ source venv/bin/activate
 # Now that the virtualenv is running, then
 # we can do execute the script
 #
-python3 app.py
+python app.py
 
 #
 # Finally, we do deactivate the virtualenv
